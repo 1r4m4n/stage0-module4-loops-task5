@@ -8,7 +8,7 @@ public class Square {
                     System.out.print("8");
                 }
                 else {
-                    System.out.println(" ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();
